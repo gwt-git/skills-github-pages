@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: project-gt.com
 ---
-
+### github pages blog
